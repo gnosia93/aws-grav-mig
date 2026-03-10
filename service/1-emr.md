@@ -1,5 +1,6 @@
-For information about the supported Java versions for applications, see the application pages in the Amazon EMR Release Guide.
+### JVM Runtime ###
 
+For information about the supported Java versions for applications, see the application pages in the Amazon EMR Release Guide.
 Amazon EMR only supports running one runtime version in a cluster, and doesn't support running different nodes or applications on different runtime versions on the same cluster.
 
 * For Amazon EMR 7.x, the default Java Virtual Machine (JVM) is Java 17 for applications that support Java 17, with the exception of Apache Livy. For more information about the supported JDK versions for applications, see the corresponding release page in the Amazon EMR Release Guide.
