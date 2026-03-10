@@ -1,4 +1,4 @@
-### JVM Runtime ###
+### [JVM Runtime](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/configuring-java8.html#configuring-java8-override-spark) ###
 
 For information about the supported Java versions for applications, see the application pages in the Amazon EMR Release Guide.
 Amazon EMR only supports running one runtime version in a cluster, and doesn't support running different nodes or applications on different runtime versions on the same cluster.
